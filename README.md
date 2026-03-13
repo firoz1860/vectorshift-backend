@@ -12,7 +12,7 @@
 [![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[🌐 Live API](https://vectorshift-backend.onrender.com) · [📖 Swagger Docs](https://vectorshift-backend.onrender.com/docs) · [🐛 Report Bug](https://github.com/firoz1860/vectorshift-backend/issues)
+[🌐 Live API](https://vectorshift-backend-3nxl.onrender.com) · [📖 Swagger Docs](https://vectorshift-backend.onrender.com/docs) · [🐛 Report Bug](https://github.com/firoz1860/vectorshift-backend/issues)
 
 </div>
 
