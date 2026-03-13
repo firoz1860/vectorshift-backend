@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any
 from collections import defaultdict, deque
 
 app = FastAPI(title="VectorShift Pipeline API")
@@ -60,9 +60,6 @@ def parse_pipeline(pipeline: PipelineData):
         "num_edges": len(pipeline.edges),
         "is_dag":    is_dag(pipeline.nodes, pipeline.edges),
     }
-
-
-
 
 
 
